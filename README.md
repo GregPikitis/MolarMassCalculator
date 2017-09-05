@@ -10,7 +10,7 @@ My help section states:
 
 Not kidding, even the spelling errors. Good luck.
 
-Example:
+#### Example:
 
 12H+36C+3I
 
