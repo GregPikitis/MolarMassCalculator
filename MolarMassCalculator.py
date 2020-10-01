@@ -8,7 +8,7 @@ def main():
 	done = False
 	finalAdd = 0
 	
-	while done == False:
+	while not(done):
 		tempAdded = 0
 		elementToMultiply = ""
 		numberToMultiply = ""
